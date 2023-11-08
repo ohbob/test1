@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />This is dev fork
+		to your new<br />This is dev branch
 	</h1>
 
 	<h2>
