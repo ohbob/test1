@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit appZ
+		to your new<br />SvelteKit appz dev
 	</h1>
 
 	<h2>
