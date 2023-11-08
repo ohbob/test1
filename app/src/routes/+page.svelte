@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit appz dev
+		to your new<br />This is dev fork
 	</h1>
 
 	<h2>
