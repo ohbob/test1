@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit appZ
+		to your new<br />This is main fork
 	</h1>
 
 	<h2>
