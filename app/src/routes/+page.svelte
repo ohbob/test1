@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />This is main fork
+		to your new<br />This is main branch
 	</h1>
 
 	<h2>
